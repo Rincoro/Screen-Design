@@ -42,5 +42,5 @@ railsで開発予定です。
 
 
 画面遷移図/URL
-https://www.figma.com/design/kZLbyYLbTUsx7QHYL13HHW/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=13-127&t=aMnPQzGTGB7CacE3-1
+https://www.figma.com/design/kZLbyYLbTUsx7QHYL13HHW/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=18-128&t=1EeTFx6tRvZZCuM5-1
 
